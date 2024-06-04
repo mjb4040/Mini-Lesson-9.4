@@ -16,6 +16,4 @@ Include a list of the tools used in the project:
 6. JavaScript 
 
 
-## Portfolio URL 
 
-https://mjb4040.github.io/Portfolio-Blackwell/
